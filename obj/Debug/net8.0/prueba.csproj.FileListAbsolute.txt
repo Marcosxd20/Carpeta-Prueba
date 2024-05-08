@@ -1,0 +1,14 @@
+/home/et12alumno/prueba/obj/Debug/net8.0/prueba.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/prueba/obj/Debug/net8.0/prueba.AssemblyInfoInputs.cache
+/home/et12alumno/prueba/obj/Debug/net8.0/prueba.AssemblyInfo.cs
+/home/et12alumno/prueba/obj/Debug/net8.0/prueba.csproj.CoreCompileInputs.cache
+/home/et12alumno/prueba/bin/Debug/net8.0/prueba
+/home/et12alumno/prueba/bin/Debug/net8.0/prueba.deps.json
+/home/et12alumno/prueba/bin/Debug/net8.0/prueba.runtimeconfig.json
+/home/et12alumno/prueba/bin/Debug/net8.0/prueba.dll
+/home/et12alumno/prueba/bin/Debug/net8.0/prueba.pdb
+/home/et12alumno/prueba/obj/Debug/net8.0/prueba.dll
+/home/et12alumno/prueba/obj/Debug/net8.0/refint/prueba.dll
+/home/et12alumno/prueba/obj/Debug/net8.0/prueba.pdb
+/home/et12alumno/prueba/obj/Debug/net8.0/prueba.genruntimeconfig.cache
+/home/et12alumno/prueba/obj/Debug/net8.0/ref/prueba.dll
